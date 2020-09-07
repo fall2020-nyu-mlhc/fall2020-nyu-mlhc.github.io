@@ -12,49 +12,6 @@ layout: default
 ## Course Description
 This is a seminar course that covers machine learning methods important for healthcare including causal inference, k-shot learning, time series models, and fairness. We will learn about important clinical questions and the data (such as from ICU monitors and imaging) that along with machine learning can help answer these questions. We will focus on recent work in machine learning for healthcare.
 
-## Course Structure
-
-* Typically each class would be structured as 1/3 lecture, 1/6 discussion, and 1/2 student presentations, but due to the mixed instruction this fall, the format for the class meetings will be tilted more towards discussion and student presentations.
-
-* Every lecture will be pre-recorded and the students are expected to watch the lecture prior to the class.
-	+ Both the required readings and the lecture video will be available at least one day prior to the lecture.
-	+ The lecture videos will be available in NYU classes (access with your registered NYU email).
-	+ Reading responses are due at the beginning of the class on Gradescope.
-
-* Each class will be split up into two parts:
-	+ Lecture Discussion (\~30min)
-	+ Two student presentations of 35 min each (\~25 min + \~10 min for questions)
-* Students can join the discussion and do their class presentations over zoom or in-person.
-* A few lectures will be presentations from ML researchers in the industry working on health.
-* The lab session will be both in-person and over zoom and will be recorded.
-
-### Lecture Location
-Monday, 2:00-3:40pm, in [CANT Room:200](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/registration/classroom-locations.html)
-
-### Recitation/Laboratory
-Tuesdays, 1:00-1:50pm, in [SILV, 405](https://library.nyu.edu/services/campus-media/classrooms/silv-405/)
-
-### Office hours
-Monday 4:00pm-5:00pm, on zoom. Links will be posted on Piazza.
-
-### Grading
-The final project will be the majority of the grade. 
-The project report is due on 12/14/20. There will be an
-in class presentation on 12/7/20.
-In addition to the research paper, a weekly reading response
-is due before class. People will be required to make an in class
-presentation at least once in the term. The presentation 
-can be on a research paper, a dataset, a tool, or their 
-current project. The grading is
-  +  Reading Responses sets (10%)  
-  +  Lecture scribe (10%)
-  +  Class presentation (10%)
-  +  Participation (5%)
-  +  Final Project (65%)
-
-### Piazza 
-We will use [Piazza](http://piazza.com/nyu/fall2020/dsga3001005/) to answer questions and post announcements about the course. Please sign up [here](http://piazza.com/nyu/fall2020/dsga3001005). Students' use of Piazza, particularly for adequately answering other students' questions, will contribute toward their participation grade.
-
 ## Schedule and Reading Assignments
 
 * __(Wednesday, September 9, 2020) Introduction and Opportunities and Challenges in Healthcare__  
@@ -112,3 +69,46 @@ We will use [Piazza](http://piazza.com/nyu/fall2020/dsga3001005/) to answer ques
 	+ __Lab session__ :  Influence Functions
 * __(Monday, December 7, 2020) Final Project Presentations__  
 	+ __No Lab session__
+	
+## Course Structure
+
+* Typically each class would be structured as 1/3 lecture, 1/6 discussion, and 1/2 student presentations, but due to the mixed instruction this fall, the format for the class meetings will be tilted more towards discussion and student presentations.
+
+* Every lecture will be pre-recorded and the students are expected to watch the lecture prior to the class.
+	+ Both the required readings and the lecture video will be available at least one day prior to the lecture.
+	+ The lecture videos will be available in NYU classes (access with your registered NYU email).
+	+ Reading responses are due at the beginning of the class on Gradescope.
+
+* Each class will be split up into two parts:
+	+ Lecture Discussion (\~30min)
+	+ Two student presentations of 35 min each (\~25 min + \~10 min for questions)
+* Students can join the discussion and do their class presentations over zoom or in-person.
+* A few lectures will be presentations from ML researchers in the industry working on health.
+* The lab session will be both in-person and over zoom and will be recorded.
+
+### Lecture Location
+Monday, 2:00-3:40pm, in [CANT Room:200](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/registration/classroom-locations.html)
+
+### Recitation/Laboratory
+Tuesdays, 1:00-1:50pm, in [SILV, 405](https://library.nyu.edu/services/campus-media/classrooms/silv-405/)
+
+### Office hours
+Monday 4:00pm-5:00pm, on zoom. Links will be posted on Piazza.
+
+### Grading
+The final project will be the majority of the grade. 
+The project report is due on 12/14/20. There will be an
+in class presentation on 12/7/20.
+In addition to the research paper, a weekly reading response
+is due before class. People will be required to make an in class
+presentation at least once in the term. The presentation 
+can be on a research paper, a dataset, a tool, or their 
+current project. The grading is
+  +  Reading Responses sets (10%)  
+  +  Lecture scribe (10%)
+  +  Class presentation (10%)
+  +  Participation (5%)
+  +  Final Project (65%)
+
+### Piazza 
+We will use [Piazza](http://piazza.com/nyu/fall2020/dsga3001005/) to answer questions and post announcements about the course. Please sign up [here](http://piazza.com/nyu/fall2020/dsga3001005). Students' use of Piazza, particularly for adequately answering other students' questions, will contribute toward their participation grade.
