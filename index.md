@@ -21,7 +21,7 @@ This is a seminar course that covers machine learning methods important for heal
 	+ [Big Data In Health Care: Using Analytics To Identify And Manage High-Risk And High-Cost Patients](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2014.0041)
 	+ [Prediction of Coronary Heart Disease Using Risk Factor Categories](https://www.ahajournals.org/doi/full/10.1161/01.cir.97.18.1837)
 	+ __Lab session__ :  Probability
-* __(Monday, September 21, 2020) Missing Data and the Electronic Health Record __  
+* __(Monday, September 21, 2020) Missing Data and the Electronic Health Record__  
 	+ [Recurrent Neural Networks for Multivariate Time Series with Missing Values](https://arxiv.org/pdf/1606.01865.pdf)
 	+ [Inference and missing data](https://academic.oup.com/biomet/article-abstract/63/3/581/270932)
 	+ [Electronic Health Records](http://discovery.ucl.ac.uk/1598/1/A22.pdf) : A quick skim will suffice
