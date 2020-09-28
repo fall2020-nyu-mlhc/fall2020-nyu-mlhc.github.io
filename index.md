@@ -93,7 +93,7 @@ Monday, 2:00-3:40pm, in [CANT Room:200](https://www.nyu.edu/students/student-inf
 Tuesdays, 1:00-1:50pm, in [SILV, 405](https://library.nyu.edu/services/campus-media/classrooms/silv-405/)
 
 ### Office hours
-Monday 4:00pm-5:00pm, on zoom. Links will be posted on Piazza.
+Monday 4:15pm-5:15pm, on zoom. Links will be posted on NYUClasses.
 
 ### Grading
 The final project will be the majority of the grade. 
