@@ -32,7 +32,7 @@ This is a seminar course that covers machine learning methods important for heal
 * __(Monday, October 5, 2020) Feature Selection and Model Interpretation__  Warning, lots of reading this week!
 	+ [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
 	+ [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/pdf/1705.07874.pdf)
-	+ [Panning for Gold: Model-X Knockoffs for High-dimensional Controlled Variable Selection](https://arxiv.org/pdf/1610.02351.pdf). Section 1-4
+	+ [Panning for Gold: Model-X Knockoffs for High-dimensional Controlled Variable Selection](https://arxiv.org/pdf/1610.02351.pdf). Sections 1-4
 	+ [Robust and Stable Black Box Explanations](https://proceedings.icml.cc/static/paper_files/icml/2020/5945-Paper.pdf)
 	+ __Lab session__ :  Using MIMIC Data
 * __(Monday, October 12, 2020) Clinical NLP (Guest Lecture)__  
@@ -42,8 +42,8 @@ This is a seminar course that covers machine learning methods important for heal
 	+ Chapter 2, Counterfactuals and Causal Inference, 2ed, Morgan and Winship.
 	+ __Lab session__ :  Practical Causal Inference
 * __(Monday, October 26, 2020) Fairness__  
- 	+ [Ensuring Fairness in Machine Learning to Advance Health Equity](https://www.acpjournals.org/doi/10.7326/M18-1990)
- 	+ [Fair Regression for Health Care Spending](https://arxiv.org/pdf/1901.10566.pdf)
+	+ [Ensuring Fairness in Machine Learning to Advance Health Equity](https://www.acpjournals.org/doi/10.7326/M18-1990)
+	+ [Fair Regression for Health Care Spending](https://arxiv.org/pdf/1901.10566.pdf)
 	+ [Dissecting racial bias in an algorithm used to manage the health of populations](https://science.sciencemag.org/content/366/6464/447)
 	+ [Machine Learning and Health Care Disparities in Dermatology](https://jamanetwork.com/journals/jamadermatology/article-abstract/2688587)
 	+ [Creating Fair Models of Atherosclerotic Cardiovascular Disease Risk](https://dl.acm.org/doi/10.1145/3306618.3314278)
