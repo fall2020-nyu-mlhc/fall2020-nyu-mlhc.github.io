@@ -35,11 +35,11 @@ This is a seminar course that covers machine learning methods important for heal
 	+ [Panning for Gold: Model-X Knockoffs for High-dimensional Controlled Variable Selection](https://arxiv.org/pdf/1610.02351.pdf). Sections 1-4
 	+ [Robust and Stable Black Box Explanations](https://proceedings.icml.cc/static/paper_files/icml/2020/5945-Paper.pdf)
 	+ __Lab session__ :  Using MIMIC Data
-* __(Monday, October 12, 2020) Clinical NLP (Guest Lecture)__  
+* __(Monday, October 12, 2020)  Causal Inference from Observational Data__  
 	+ __Lab session__ : Building a Model with MIMIC Data
-* __(Monday, October 19, 2020)  Causal Inference from Observational Data__  
 	+ [Statistics and Causal Inference](https://www.jstor.org/stable/2289064)
 	+ Chapter 2, Counterfactuals and Causal Inference, 2ed, Morgan and Winship.
+* __(Monday, October 19, 2020) Clinical NLP (Guest Lecture)__  
 	+ __Lab session__ :  Practical Causal Inference
 * __(Monday, October 26, 2020) Fairness__  
 	+ [Ensuring Fairness in Machine Learning to Advance Health Equity](https://www.acpjournals.org/doi/10.7326/M18-1990)
@@ -48,13 +48,13 @@ This is a seminar course that covers machine learning methods important for heal
 	+ [Machine Learning and Health Care Disparities in Dermatology](https://jamanetwork.com/journals/jamadermatology/article-abstract/2688587)
 	+ [Creating Fair Models of Atherosclerotic Cardiovascular Disease Risk](https://dl.acm.org/doi/10.1145/3306618.3314278)
 	+ __Lab session__ :  Causal Inference and Fairness
-* __(Monday, November 2, 2020) Medical Imaging__  
+* __(Monday, November 2, 2020) M-Health (Guest Lecture)__  
+	+ __Lab session__ :  
+* __(Monday, November 9, 2020) Medical Imaging__  
 	+ [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 	+ [Classification and mutation prediction from non small cell lung cancer histopathology images using deep learning](https://www.nature.com/articles/s41591-018-0177-5) 
 	+ [Transfusion: Understanding Transfer Learning for Medical Imaging](https://papers.nips.cc/paper/8596-transfusion-understanding-transfer-learning-for-medical-imaging.pdf)
 	+ __Lab session__ :  Training a U-Net
-* __(Monday, November 9, 2020) M-Health (Guest Lecture)__  
-	+ __Lab session__ :  
 * __(Monday, November 16, 2020) Physiologic Time Series__  
 	+ [Understanding vasopressor intervention and weaning: risk prediction in a public heterogeneous clinical time series database ](https://academic.oup.com/jamia/article/24/3/488/2907906)
 	+ [Interpolation-prediction networks for irregularly sampled time series](https://arxiv.org/pdf/1909.07782.pdf)
