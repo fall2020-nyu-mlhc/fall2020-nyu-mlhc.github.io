@@ -36,9 +36,9 @@ This is a seminar course that covers machine learning methods important for heal
 	+ [Robust and Stable Black Box Explanations](https://proceedings.icml.cc/static/paper_files/icml/2020/5945-Paper.pdf)
 	+ __Lab session__ :  Using MIMIC Data
 * __(Monday, October 12, 2020)  Causal Inference from Observational Data__  
-	+ __Lab session__ : Building a Model with MIMIC Data
 	+ [Statistics and Causal Inference](https://www.jstor.org/stable/2289064)
 	+ Chapter 2, Counterfactuals and Causal Inference, 2ed, Morgan and Winship.
+	+ __Lab session__ : Building a Model with MIMIC Data
 * __(Monday, October 19, 2020) Clinical NLP (Guest Lecture)__  
 	+ __Lab session__ :  Practical Causal Inference
 * __(Monday, October 26, 2020) Fairness__  
